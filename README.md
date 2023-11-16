@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi I'm Veena! 👋
+
+I am pursuing my Bachelor's in Computer Science and Engineering Student at UCLA.
+
+
+💻Most Used Languages: C++, Java, Python
 
 <!--
 **vkommu1/vkommu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
