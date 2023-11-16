@@ -1,6 +1,6 @@
 ### Hi I'm Veena! 👋
 
-I am pursuing my Bachelor's in Computer Science and Engineering Student at UCLA.
+I am pursuing my Bachelor's in Computer Science and Engineering at UCLA.
 
 
 💻Most Used Languages: C++, Java, Python
