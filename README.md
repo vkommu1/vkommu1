@@ -1,9 +1,14 @@
 ### Hi I'm Veena! 👋
 
-I am pursuing my Bachelor's in Computer Science and Engineering at UCLA.
+I am pursuing my Bachelor's in Computer Science and Engineering at UCLA.  
 
+I am 2nd year student, however have senior standing, and therefore want to take a gap quarter and do an internship instead. 
 
-💻Most Used Languages: C++, Java, Python
+My LinkedIn profile is: https://www.linkedin.com/in/veenakommu
+
+I enjoy online chess, sudoku, painting, stitching some of my own clothes, and playing with my awesome sweet dog Argo. 
+
+💻Most Used Languages: C++, Java, Python, HTML5, postgresql, jsp, Node.js
 
 <!--
 **vkommu1/vkommu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
