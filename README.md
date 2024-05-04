@@ -1,8 +1,7 @@
 ### Hi I'm Veena! 👋
 
-I am pursuing my Bachelor's in Computer Science and Engineering at UCLA.  
+I am a 2n year student pursuing my Bachelor's in Computer Science and Engineering at UCLA.  
 
-I am 2nd year student, however have senior standing, and therefore want to take a gap quarter and do an internship instead. 
 
 My LinkedIn profile is: https://www.linkedin.com/in/veenakommu
 
