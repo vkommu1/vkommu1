@@ -1,6 +1,6 @@
 ### Hi I'm Veena! 👋
 
-I am a 2n year student pursuing my Bachelor's in Computer Science and Engineering at UCLA.  
+I am a second year student pursuing my Bachelor's in Computer Science and Engineering at UCLA.  
 
 
 My LinkedIn profile is: https://www.linkedin.com/in/veenakommu
